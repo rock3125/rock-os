@@ -21,3 +21,9 @@ mdir -i build/main_floppy.img
 ```
 ./run.sh
 ```
+
+or alternatively
+
+```
+qemu-system-i386 -fda build/main_floppy.img
+```
