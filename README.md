@@ -4,7 +4,7 @@
 
 ## arch install
 ```
-sudo pacman -S qemu dosfstools qemu mtools
+sudo pacman -S dosfstools mtools nasm qemu-system-x86
 ```
 
 ## make disk image
