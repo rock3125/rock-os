@@ -6,3 +6,8 @@
 ```
 sudo pacman -S qemu dosfstools qemu mtools
 ```
+
+## view contents of disk image
+```
+mdir -i build/main_floppy.img
+```

@@ -3,8 +3,6 @@ bits 16
 
 %define CR 0x0d, 0x0a
 
-; view floppy disk using:   mdir -i build/main_floppy.img
-
 ;
 ; FAT12 header
 ;

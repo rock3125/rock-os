@@ -3,9 +3,6 @@ ASM=nasm
 SRC_DIR=src
 BUILD_DIR=build
 
-# install:
-# pacman -S dosfstools qemu mtools
-
 .PHONY: all floppy_image kernel bootloader clean always
 
 
